@@ -4,7 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=ashish11-cyber&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F72760881%3Fu%3D5cf1aa2b1061faee86ba92f2c92cdd27deb42444%26v%3D4" alt="ashish11-cyber hero visual" />
 </p>
 
-**Ashish Singh Chauhan** · Frontend or full-stack engineer
+**Ashish Singh Chauhan** · Java Back End Engineer or Full-Stack Engineer
 
 ## About
 

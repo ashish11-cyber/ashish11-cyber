@@ -23,7 +23,7 @@
 ## Signals
 
 <table>
-<tr><td align="center"><b>17</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>10</b><br/><sub>contributions</sub></td></tr>
+<tr><td align="center"><b>17</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>11</b><br/><sub>contributions</sub></td></tr>
 </table>
 
 ## Projects
